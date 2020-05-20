@@ -8,6 +8,7 @@
 * NumPy
 * Pandas
 * Matplotlib
+* SciKit-Learn
 * TensorFlow
 
 Below figure show all gestures which represent A-Z alphabets, but 2 of these gesture need movements so it can't be classified from an image.
