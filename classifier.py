@@ -88,15 +88,4 @@ label = np.argmax(pred,axis=1)
 print(label.shape,label)
 np.savetxt("submission.csv", label)
 
-# Confusion matrix
-cm = confusion_matrix(train_Y, pred)
-cmap = plt.get_cmap('Blues')
-plt.figure(figsize=(8, 6))
-plt.imshow(cm, interpolation='nearest', cmap=cmap)
-tick_marks = np.arange(25)
-plt.xticks(tick_marks, tick_marks, rotation=45)
-plt.yticks(tick_marks, tick_marks)
-plt.xlabel("Predicted class")
-plt.ylabel("True Label")
-plt.savefig("Confusion-Matrix.png", dpi=300)
-plt.show()
+# Print and plot Confusion matrix
