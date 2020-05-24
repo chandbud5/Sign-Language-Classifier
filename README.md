@@ -11,6 +11,9 @@
 * SciKit-Learn
 * TensorFlow
 
+**Note - The notebook has full code and capture function in it will capture an image from your webcam and classify it's gesture. But as it will be reduced to very low resolution make sure to keep your hand very close to camera otherwise it won't be able to classify correctly.**
+
+
 Below figure show all gestures which represent A-Z alphabets, but 2 of these gesture need movements so it can't be classified from an image.
 
 ![](https://github.com/chandbud5/Sign-Language-Classifier/blob/master/All%20gesture%20from%20A-Z.PNG)
