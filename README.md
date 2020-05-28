@@ -23,4 +23,4 @@ As you can see from above image J and Z needs movements so they can't be classif
 
 *I have also attached labels for test set which are predicted by my model. It is 95% accurate. If you can improve accuracy you are welcome to contribute here.*
 
-### Check out my portfolio at 👉👉 [CLICK HERE](https://chandbud.me)
+### Check out my Blogs at 👉👉 [CLICK HERE](https://chandbud.me)
